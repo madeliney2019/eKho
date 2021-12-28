@@ -1,6 +1,6 @@
 @font-face {
-	font-family: "Linux Libertine";
-	src: url("fonts/LinLibertine_RZ.woff") format('woff');
+	/* font-family: "Linux Libertine";
+	src: url("fonts/LinLibertine_RZ.woff") format('woff'); */
 }
 html {
 	font-family: sans-serif;
